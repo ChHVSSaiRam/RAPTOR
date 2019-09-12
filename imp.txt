@@ -1,0 +1,10 @@
+git init
+git config user.name "SaiRam"
+git config user.email sairamchikkala007@gmail.com
+git remote add origin https://github.com/ChHVSSaiRam/RAPTOR.git
+git remote -v
+git pull https://github.com/ChHVSSaiRam/RAPTOR.git
+git status
+git add --all
+git commit -m "9 sep 2019"
+git push -u origin master
